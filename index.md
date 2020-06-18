@@ -13,4 +13,4 @@ Der Syfy-Roman DIE DREI SONNEN spielt in drei Handlungssträngen auf der Erde in
 ## Bild
 _IMDb, URLs: http://www.imdb.com/_
 
-![Bild](https://m.media-amazon.com/images/M/MV5BZjgyNzNjNjEtZDliZi00Mzg4LWIyZjktZTFjZjNkNjA3OGYwXkEyXkFqcGdeQXVyNDI3OTUyNg@@._V1_SY1000_CR0,0,1566,1000_AL_.jpg)
+<img src="https://m.media-amazon.com/images/M/MV5BZjgyNzNjNjEtZDliZi00Mzg4LWIyZjktZTFjZjNkNjA3OGYwXkEyXkFqcGdeQXVyNDI3OTUyNg@@._V1_SY1000_CR0,0,1566,1000_AL_.jpg)"/>
