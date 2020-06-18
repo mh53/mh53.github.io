@@ -4,3 +4,8 @@ Der Syfy-Roman DIE DREI SONNEN spielt in drei Handlungssträngen auf der Erde in
 * nachdenklich
 * verantwortungsvoll
 * ein bisschen naiv
+
+## Spruch des Charakters
+> Erstens: Überleben ist das oberste Gebot jeder Zivilisation. 
+> Zweitens: Zivilisationen wachsen und dehnen sich ununterbrochen aus, aber die im Kosmos verfügbare Materie bleibt konstant.
+> zwei weitere wichtige Konzepte mit einbeziehen: Zweifelsketten und technologische Explosionen.
