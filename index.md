@@ -9,3 +9,8 @@ Der Syfy-Roman DIE DREI SONNEN spielt in drei Handlungssträngen auf der Erde in
 > Erstens: Überleben ist das oberste Gebot jeder Zivilisation. 
 > Zweitens: Zivilisationen wachsen und dehnen sich ununterbrochen aus, aber die im Kosmos verfügbare Materie bleibt konstant.
 > zwei weitere wichtige Konzepte mit einbeziehen: Zweifelsketten und technologische Explosionen.
+
+## Bild
+_IMDb, URLs: http://www.imdb.com/_
+
+![Bild](https://m.imdb.com/title/tt4547948/mediaviewer/rm1315703040)
